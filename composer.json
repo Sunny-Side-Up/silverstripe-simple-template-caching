@@ -4,12 +4,12 @@
     "authors": [
         {
             "name": "Nicolaas Francken",
-            "email": "modules@sunnysideup.co.nz",
-            "role": "lead developer"
+            "email": "modules@sunnysideup.co.nz"
         },
         {
             "name": "LABCAT",
-            "homepage": "https://github.com/LABCAT/"
+            "homepage": "https://github.com/LABCAT/",
+            "role": "lead developer"
         }
     ],
     "keywords": [
